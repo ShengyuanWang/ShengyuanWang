@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Shengyuan's github stats](https://github-readme-stats.vercel.app/api?username=ShengyuanWang)](https://github.com/ShengyuanWang/github-readme-stats)
+[![Shengyuan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShengyuanWang)](https://github.com/ShengyuanWang/github-readme-stats)
 <!--
 **ShengyuanWang/ShengyuanWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
