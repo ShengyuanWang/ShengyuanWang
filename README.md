@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=2F81F7&center=true&pause=100000&lines=Hi,+I'm+Shengyuan+Wang.+AI+%2F+Backend+Engineer." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=2F81F7&center=true&vCenter=true&width=700&pause=100000&lines=🏆+ICPC+Gold+×3.+🎓+MCS+@+UIUC+(GPA+4.0).+🔬+vLLM+%26+OpenClaw+Contributor." alt="Profile Info"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=16&color=2F81F7&center=true&pause=100000&lines=Hi,+I'm+Shengyuan+Wang.+AI+%2F+Backend+Dev." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=2F81F7&center=true&vCenter=true&width=700&pause=100000&lines=🏆+ICPC+Gold+×3.+🎓+MSCS+@+UIUC.+🔬+vLLM+%26+OpenClaw+Contributor." alt="Profile Info"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently looking for a full-time AI / Software Engineer position (2026).</strong>
